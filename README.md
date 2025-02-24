@@ -1,5 +1,5 @@
-
-<h2> Hi, I'm Gaby Cano! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Gaby Cano! 👋</h2>
+<h3>I'm a Full-Stack Web Developer in training with QA experience who loves Comics and Music, always learning new things, ready for discussions and making new projects.</h3>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY4b2plMW04YTVtdnZuOXI2MDc2cGN4eHAwaTdmZ3p6bGs4aXVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0BaErqmljUd2/giphy.gif" width="230">
 
 ```javascript
@@ -13,6 +13,7 @@ const gaby = {
 ```
 <!--
 ## Hi there 👋
+## Gato que asoma <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 **jg-cf0/jg-cf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
