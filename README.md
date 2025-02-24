@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Gaby Cano! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/embed/f0BaErqmljUd2)" width="230">
+<img align='right' src="https://giphy.com/embed/f0BaErqmljUd2" width="230">
 
 ```javascript
 const gaby = {
